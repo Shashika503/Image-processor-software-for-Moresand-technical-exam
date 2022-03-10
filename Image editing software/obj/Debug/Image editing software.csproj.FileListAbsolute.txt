@@ -1,0 +1,10 @@
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\bin\Debug\Image editing software.exe.config
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\bin\Debug\Image editing software.exe
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\bin\Debug\Image editing software.pdb
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image editing software.csproj.AssemblyReference.cache
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image_editing_software.Form1.resources
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image_editing_software.Properties.Resources.resources
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image editing software.csproj.GenerateResource.cache
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image editing software.csproj.CoreCompileInputs.cache
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image editing software.exe
+C:\Users\Shashika\source\repos\Image editing software\Image editing software\obj\Debug\Image editing software.pdb
